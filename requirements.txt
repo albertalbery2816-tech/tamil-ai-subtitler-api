@@ -1,4 +1,4 @@
-flask, 
-openai-whisper, 
-deep-translator,
- gunicorn.
+flask
+openai-whisper
+deep-translator
+ gunicorn
